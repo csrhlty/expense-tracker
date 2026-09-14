@@ -6,7 +6,10 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #f2f4f7;
+    background-image: url("image\ front-end.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     min-height: 100vh;
     padding: 40px 20px;
 }
